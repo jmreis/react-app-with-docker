@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge) ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge) 
+![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/README-template?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/jmreis/README-template?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/jmreis/README-template?style=for-the-badge) <!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/README-template?style=for-the-badge) ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/README-template?style=for-the-badge)-->
 
 ---
 
@@ -67,7 +67,6 @@ Para usar, siga estas etapas:
 
     ```
 
-
 ## 📫 Contribuindo com projeto
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir, siga estas etapas:
@@ -79,7 +78,6 @@ Para contribuir, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
 
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
