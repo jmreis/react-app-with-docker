@@ -2,7 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/README-template?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/jmreis/README-template?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/jmreis/README-template?style=for-the-badge) <!-- ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/README-template?style=for-the-badge) ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/README-template?style=for-the-badge)-->
+![GitHub repo size](https://img.shields.io/github/repo-size/jmreis/react-app-with-docker?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/jmreis/react-app-with-docker?style=for-the-badge) <!--![GitHub forks](https://img.shields.io/github/forks/jmreis/react-app-with-docker?style=for-the-badge) ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/jmreis/README-template?style=for-the-badge) ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/jmreis/README-template?style=for-the-badge)-->
 
 ---
 
