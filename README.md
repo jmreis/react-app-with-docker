@@ -46,7 +46,7 @@ $ git clone https://github.com/jmreis/react-app-with-docker.git
 
 Para usar, siga estas etapas:
 
-    - Deploy ambiente de desenvolvimento
+> Deploy ambiente de desenvolvimento
 
     ```
     # Alterando permissão
@@ -56,8 +56,7 @@ Para usar, siga estas etapas:
 
     ```
 
-
-    - Deploy ambiente de produção
+> Deploy ambiente de produção
 
 
     ```
@@ -65,7 +64,7 @@ Para usar, siga estas etapas:
     $ chmod +x app-run-deploy
 
     $ ./app-run-deploy --prod
-    
+
     ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
