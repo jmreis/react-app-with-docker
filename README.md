@@ -48,20 +48,24 @@ Para usar, siga estas etapas:
 
     - Deploy ambiente de desenvolvimento
 
-    ```bash
+    ```
     # Alterando permissão
     $ chmod +x app-run-deploy
 
     $ ./app-run-deploy --dev
+
     ```
+
 
     - Deploy ambiente de produção
 
-    ```bash
+
+    ```
     # Alterando permissão
     $ chmod +x app-run-deploy
 
     $ ./app-run-deploy --prod
+    
     ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
